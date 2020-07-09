@@ -1,3 +1,6 @@
+# I am not the owner this code. This code has been taken from the following great kernel.
+# https://www.kaggle.com/jakubwasikowski/stratified-group-k-fold-cross-validation (Don't forget to upvote him)
+
 import random
 import numpy as np
 import pandas as pd
